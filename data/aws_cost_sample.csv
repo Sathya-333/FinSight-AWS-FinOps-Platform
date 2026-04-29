@@ -1,0 +1,9 @@
+date,service,team,project,environment,resource_id,usage,cost,region,owner
+2026-04-01,EC2,Payments,RiskEngine,Prod,i-123,120,15000,ap-south-1,payments@company.com
+2026-04-01,S3,Analytics,DataLake,Prod,bucket-1,500,8000,ap-south-1,analytics@company.com
+2026-04-02,EC2,Payments,RiskEngine,Dev,i-124,100,12000,ap-south-1,payments@company.com
+2026-04-02,RDS,Core,UserDB,Prod,db-1,50,20000,ap-south-1,core@company.com
+2026-04-03,S3,Analytics,DataLake,Prod,bucket-2,600,9000,ap-south-1,analytics@company.com
+2026-04-03,EC2,Core,Backend,Prod,i-125,140,18000,ap-south-1,core@company.com
+2026-04-04,CloudWatch,Payments,RiskEngine,Prod,log-1,300,4000,ap-south-1,payments@company.com
+2026-04-04,EBS,Core,Backend,Prod,vol-1,200,7000,ap-south-1,core@company.com
